@@ -37,7 +37,6 @@
             }
         },
         "databaseDTU": {
-            "type": "int",
             "allowedValues": [
                 50,
                 100
@@ -106,7 +105,7 @@
                     }],
                     "appSettings": [{
                             "name": "DOCKER_CUSTOM_IMAGE_NAME",
-                            "value": "prashanthmadi/azure-ghost:1.14"
+                            "value": "jordiCabeza/azure-ghost:1.18.4"
                         },
                         {
                             "name": "DB_HOST",
