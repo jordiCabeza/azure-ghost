@@ -37,6 +37,7 @@
             }
         },
         "databaseDTU": {
+            "type": "int",
             "allowedValues": [
                 50,
                 100
